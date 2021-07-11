@@ -72,12 +72,16 @@
         <module>commons-fileupload/1.3.3.wso2v1</module>
         <module>geronimo-kernel/3.0.1.wso2v1</module>
         <module>smooks/1.5.1.wso2v2</module>
+        <module>smooks/1.5.1.wso2v3</module>
+        <module>smooks/1.5.1.wso2v4</module>
         <module>commons-text/1.6.wso2v1</module>
         <module>jaxb-api/2.3.1.wso2v1</module>
+        <module>jaxb-api/2.3.1.wso2v2</module>
         <module>jaxb/2.3.2.wso2v1</module>
         <module>activation/1.1.1.wso2v1</module>
         <module>activation/1.1.1.wso2v2</module>
         <module>bcprov/1.60.0.wso2v1</module>
+        <module>bcprov/1.68.0.wso2v1</module>
         <module>bcpkix/1.60.0.wso2v1</module>
         <module>jaxws-ri/2.3.2.wso2v1</module>
         <module>jta/1.1.0.wso2v1</module>
@@ -92,6 +96,15 @@
         <module>openjpa-all/2.2.2.wso2v2</module>
         <module>apacheds/2.0.0.AM25.wso2v1</module>
         <module>yubico-webauthn/1.3.0.wso2v1</module>
+        <module>asn-one/0.4.0.wso2v1</module>
+        <module>smbj/0.10.0.wso2v1</module>
+        <module>mbassador/1.3.2.wso2v1</module>
+        <module>batik/1.9.1.wso2v1</module>
+        <module>commons-lang/3.11.0.wso2v1</module>
+        <module>commons-lang/3.4.0.wso2v1</module>
+        <module>swagger-parser-v3/2.0.24.wso2v1</module>
+        <module>swagger-request-validator/2.12.1.wso2v1</module>
+        <module>swagger-request-validator/2.12.1.wso2v2</module>
     </modules>
 
     <build>
